@@ -6,3 +6,5 @@ It's easy to forget that. It's easy for **ME** to forget that. The way I remind 
 Often people wonder why I am randomly telling them I am grateful and so I made this page to explain.
 
 Today, you are the recipient of my gratitude. Thanks!
+
+You don't have to do anything in return; you don't have to say anything. Just know that I am grateful for you.
