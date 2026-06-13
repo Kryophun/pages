@@ -2174,8 +2174,8 @@ window.ARTCC_FEEDS = [
   "status": "UP",
   "alt": 0,
   "sector": null,
-  "lat": 40.7608,
-  "lng": -111.891,
+  "lat": 48.310501,
+  "lng": -114.255997,
   "locationText": "Kalispell, Montana"
  },
  {
