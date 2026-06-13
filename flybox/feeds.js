@@ -818,8 +818,8 @@ window.ARTCC_FEEDS = [
   "status": "UP",
   "alt": 0,
   "sector": "Stewart 05 Sector",
-  "lat": 42.3601,
-  "lng": -71.0589,
+  "lat": 41.504112,
+  "lng": -74.104836,
   "locationText": "Newburgh, New York"
  },
  {
@@ -2882,8 +2882,8 @@ window.ARTCC_FEEDS = [
   "status": "UP",
   "alt": 1,
   "sector": "New York Center ( Huguenot  Sector",
-  "lat": 40.7128,
-  "lng": -74.006,
+  "lat": 41.504112,
+  "lng": -74.104836,
   "locationText": "Newburgh, New York"
  },
  {
@@ -3446,8 +3446,8 @@ window.ARTCC_FEEDS = [
   "status": "UP",
   "alt": 3,
   "sector": "/",
-  "lat": 47.6062,
-  "lng": -122.3321,
+  "lat": 45.247139,
+  "lng": -122.770058,
   "locationText": "Aurora, Oregon"
  },
  {
