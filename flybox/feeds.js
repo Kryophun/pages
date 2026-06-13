@@ -2174,8 +2174,8 @@ window.ARTCC_FEEDS = [
   "status": "UP",
   "alt": 0,
   "sector": null,
-  "lat": 48.310501,
-  "lng": -114.255997,
+  "lat": 40.7608,
+  "lng": -111.891,
   "locationText": "Kalispell, Montana"
  },
  {
@@ -3446,8 +3446,8 @@ window.ARTCC_FEEDS = [
   "status": "UP",
   "alt": 3,
   "sector": "/",
-  "lat": 45.247139,
-  "lng": -122.770058,
+  "lat": 47.6062,
+  "lng": -122.3321,
   "locationText": "Aurora, Oregon"
  },
  {
